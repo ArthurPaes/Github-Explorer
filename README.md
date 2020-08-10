@@ -1,5 +1,5 @@
 
-# Damage-Calculator
+# Github Explorer
 
 > Website to explore github repositories using github's API
 
